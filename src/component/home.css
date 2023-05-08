@@ -1,0 +1,15 @@
+.fcc-btn {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 30%;
+  }
+  .map-wrap {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 77px); /* calculate height of the screen minus the heading */
+  }
+  .ico{
+    margin-top: 200px;
+  }
